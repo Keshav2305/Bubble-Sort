@@ -8,5 +8,9 @@ Therefore the loop take (N(N-1))/2 comparisons to complete its sorting. (N=numbe
 </br> The diagrammatic representation of bubble sort is:
 </br>
 ![bubblesort](bubblesortcpp.png)
+## Explaination
+We approach the code by using 2 loops. The outside loop is a while loop which runs *(however many elemts are there) number of times ie n times.
+In the inside for loop (i), we run it from 0 to *(number of elements) - n , and we compare the elemenmts of the array of indices i and i+1, if theyre in the incorrect order, we swap them.
+
 ## Output Screenshot
 ![output ss](image_2023-10-21_225955751.png)

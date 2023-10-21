@@ -9,4 +9,4 @@ Therefore the loop take (N(N-1))/2 comparisons to complete its sorting. (N=numbe
 </br>
 ![bubblesort](bubblesortcpp.png)
 ## Output Screenshot
-![output ss]()
+![output ss](image_2023-10-21_225955751.png)
